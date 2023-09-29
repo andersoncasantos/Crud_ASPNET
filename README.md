@@ -1,2 +1,2 @@
 # Crud_ASPNET
-Crud em AspNet com autenticação
+Crud em AspNet e Blazor com autenticação
